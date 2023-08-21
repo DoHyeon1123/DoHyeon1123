@@ -1,7 +1,4 @@
 
-<div align=center>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdh1123)](https://github.com/kdh1123/github-readme-stats)
-</div>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -17,5 +14,12 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
+
+  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+  <br>
+</div>
+
+<div align=center>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdh1123&theme=transparent)](https://github.com/kdh1123/github-readme-stats)
 </div>
 
