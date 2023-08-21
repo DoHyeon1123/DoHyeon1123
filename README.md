@@ -20,6 +20,6 @@
 </div>
 
 <div align=center>
-[![DoHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoHyeon1123&theme=transparent)](https://github.com/DoHyeon1123/github-readme-stats)
+![DoHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoHyeon1123&show_icons=true&theme=transparent)
 </div>
 
