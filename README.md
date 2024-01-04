@@ -4,7 +4,7 @@
 
 <div>
 <h3>contact</h3>
-<img src="https://img.shields.io/badge/kdh200533@gmail.com-007396?style=for-the-badge&logo=Gmail&logoColor=white"> 
+<img src="https://img.shields.io/badge/kdh200533@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
   <br>
   
 <h3>laungage</h3>
@@ -13,14 +13,14 @@
   <br>
 
 <h3>stack</h3>
-    <img src="https://img.shields.io/badge/Android-7F52FF?style=for-the-badge&logo=Android&logoColor=white">
-    <img src="https://img.shields.io/badge/Jetpack Compose-7F52FF?style=for-the-badge&logo=Jetpack Compose&logoColor=white">
+    <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=white">
+    <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=for-the-badge&logo=Jetpack Compose&logoColor=white">
     <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
 <br>
 <h3>tools</h3>
-    <img src="https://img.shields.io/badge/Android Studio-7F52FF?style=for-the-badge&logo=Android Stduio&logoColor=white">
-  <img src="https://img.shields.io/badge/GitKraken-7F52FF?style=for-the-badge&logo=GitKraken&logoColor=white">
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
+  <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
